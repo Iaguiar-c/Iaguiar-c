@@ -5,9 +5,9 @@
   </a>
 </div>
 
-<p align="center">Olá, meu nome é Isabella e atualmente estou cursando meu último ano em Análise e Desenvolvimento de Sistemas na FATEC - Faculdade de Tecnologia do Estado de São Paulo.
+<p align="center">Hii, my name is Isabella and I am currently in my final year of 'Análise e Desenvolvimento de Sistemas' at FATEC - Faculdade de Tecnologia do Estado de São Paulo.</p>
 
-<p align="center">Trabalho com desenvolvimento Salesforce, o que me proporciona constante contato com Apex (linguagem de programação) e LWC (Lightning Web Components).
+<p align="center">I work with Salesforce development, which involves constant interaction with Apex (programming language) and LWC (Lightning Web Components).</p>
 
 
 <div align="center">
