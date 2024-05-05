@@ -7,7 +7,7 @@
 
 <p align="center">Hii, my name is Isabella and I am currently in my final year of 'Análise e Desenvolvimento de Sistemas' at FATEC - Faculdade de Tecnologia do Estado de São Paulo.</p>
 
-<p align="center">I work with Salesforce development, which involves constant interaction with Apex (programming language) and LWC (Lightning Web Components).</p>
+<p align="center">I am a Salesforce developer, which involves constant interaction with Apex (programming language) and LWC (Lightning Web Components).</p>
 
 
 <div align="center">
