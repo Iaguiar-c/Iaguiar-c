@@ -17,7 +17,7 @@
 </div>
 
 
-<img align="right" alt="" height="190px" src=".github/src/gifofme.gif">
+<img align="right" alt="" height="180px" src=".github/src/gifofme.gif">
 
 <h3 align="left">Connect with me!</h3>
 
