@@ -5,10 +5,13 @@
   </a>
 </div>
 
-<p align="center">Hii, my name is Isabella and I am currently in my final year of 'Análise e Desenvolvimento de Sistemas' at FATEC - Faculdade de Tecnologia do Estado de São Paulo.</p>
+<p align="center">Olá, eu sou a Isabella, uma Desenvolvedora Full Stack de São Paulo, Brasil. 🌎</p>
 
-<p align="center">I am a Salesforce developer, which involves constant interaction with Apex (programming language) and LWC (Lightning Web Components).</p>
-
+<p align="">Sou apaixonada por criar aplicações web impactantes e escaláveis. Atualmente, estou no meu último ano de 'Análise e Desenvolvimento de Sistemas' na FATEC - Faculdade de Tecnologia do Estado de São Paulo.</p>
+<p align="">Tenho ampla experiência com JavaScript, Java, React e Node.js, e estou atuando como desenvolvedora Salesforce, focando em Apex (linguagem de programação) e Lightning Web Components (LWC).</p>
+<h3 align="left">Experiência Profissional</h3>
+<p align="">Desenvolvedora Salesforce: Especializada em Apex e LWC, projeto e implemento soluções para melhorar a experiência do usuário e otimizar processos de negócios.</p>
+<p align="">Projetos Full Stack: Construi e contribui para vários projetos utilizando tecnologias como React e Node.js, garantindo soluções robustas e escaláveis.</p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
