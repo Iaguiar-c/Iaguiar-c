@@ -5,13 +5,15 @@
   </a>
 </div>
 
-<p align="center">Olá, eu sou a Isabella, uma Desenvolvedora Full Stack de São Paulo, Brasil. 🌎</p>
+<p align=""><b>Hi there! 😊</b></p>
 
-<p align="">Sou apaixonada por criar aplicações web impactantes e escaláveis. Atualmente, estou no meu último ano de 'Análise e Desenvolvimento de Sistemas' na FATEC - Faculdade de Tecnologia do Estado de São Paulo.</p>
-<p align="">Tenho ampla experiência com JavaScript, Java, React e Node.js, e estou atuando como desenvolvedora Salesforce, focando em Apex (linguagem de programação) e Lightning Web Components (LWC).</p>
-<h3 align="left">Experiência Profissional</h3>
-<p align="">Desenvolvedora Salesforce: Especializada em Apex e LWC, projeto e implemento soluções para melhorar a experiência do usuário e otimizar processos de negócios.</p>
-<p align="">Projetos Full Stack: Construi e contribui para vários projetos utilizando tecnologias como React e Node.js, garantindo soluções robustas e escaláveis.</p>
+<p align="">I'm Isabella, a Salesforce Developer based in São Paulo, Brazil.</p>
+
+<p align="">I currently work as a Salesforce Developer, where I build customized solutions using Apex and Lightning Web Components (LWC) to enhance business processes and user experiences. I've also contributed to mobile development projects using Flutter and Nest.js, integrating them with Salesforce via custom APIs.</p>
+<p align="">I'm passionate about developing impactful, scalable applications and am actively expanding my knowledge to transition into a Software Engineering role. I aim to combine my Salesforce expertise with a broader understanding of system architecture and development best practices.</p>
+
+<p align="">Outside of work, I enjoy oil painting, photography, reading, and playing cozy games. I also practice journaling and mindfulness, believing in the power of manifestation and thoughtful decision-making.</p>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -35,11 +37,11 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
   <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" height="25" alt="flutter logo"  />
+  <img width="8" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="25" alt="node logo"  />
   <img width="8" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="25" alt="spring logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="25" alt="java logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="25" alt="mongodb logo"  />
   <img width="8" />
