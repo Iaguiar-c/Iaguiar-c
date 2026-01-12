@@ -7,12 +7,13 @@
 
 <p align=""><b>Hi there! 😊</b></p>
 
-<p align="">I'm Isabella, a Salesforce Developer based in São Paulo, Brazil.</p>
+<p align="">I'm Isabella, an early-career Software Engineer based in São Paulo, Brazil.</p>
 
-<p align="">I currently work as a Salesforce Developer, where I build customized solutions using Apex and Lightning Web Components (LWC) to enhance business processes and user experiences. I've also contributed to mobile development projects using Flutter and Nest.js, integrating them with Salesforce via custom APIs.</p>
-<p align="">I'm passionate about developing impactful, scalable applications and am actively expanding my knowledge to transition into a Software Engineering role. I aim to combine my Salesforce expertise with a broader understanding of system architecture and development best practices.</p>
-
-<p align="">Outside of work, I enjoy oil painting, photography, reading, and playing cozy games. I also practice journaling and mindfulness, believing in the power of manifestation and thoughtful decision-making.</p>
+<p align="">I have 1+ year of hands-on experience developing backend and full-stack applications, with a strong focus on APIs, system integration, and scalable software solutions. I work primarily with Java, Python, and JavaScript, and I have experience building production systems in cloud environments.</p>
+<p align="">Currently, I work as a Software Engineer at Capgemini, where I develop backend services and integrations using Apex and RESTful APIs. I collaborate in agile, cross-functional teams to design, implement, and maintain reliable systems used in real-world business operations.</p>
+<p align="">Beyond enterprise platforms, I have built full-stack applications using React, Node.js, MongoDB, and cloud services, applying clean architecture principles and software engineering best practices. I am also expanding my knowledge in data structures, algorithms, and machine learning fundamentals.</p>
+<p align="">I'm passionate about solving complex problems, learning new technologies, and building impactful software at scale.</p>
+<p align="">Outside of tech, I enjoy oil painting, photography, reading, and cozy games. I also practice journaling and mindfulness as part of my personal growth.</p>
 
 
 <div align="center">
