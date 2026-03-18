@@ -86,7 +86,8 @@ Sou obcecada por conhecimento: se tem algo novo para aprender, pode contar comig
 
 <div align="center">
 
-![Isabella’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iaguiar-c&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
+![Iaguiar-c's Stats](https://github-readme-stats.vercel.app/api?username=Iaguiar-c&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iaguiar-c&layout=compact&theme=tokyonight&hide_border=true)
 
